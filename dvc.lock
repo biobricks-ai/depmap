@@ -1,0 +1,13 @@
+schema: '2.0'
+stages:
+  download_data:
+    cmd: Rscript R/build.R
+    deps:
+    - path: R/build.R
+      md5: 57d376f30e97c92ddcc01fab9731d523
+      size: 726
+    outs:
+    - path: data/
+      md5: 963df8cc3874336eff32ccbf0361a69d.dir
+      size: 764461793
+      nfiles: 9

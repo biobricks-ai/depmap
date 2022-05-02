@@ -1,0 +1,7 @@
+stages:
+  download_data:
+    cmd: Rscript R/build.R
+    deps:
+    - R/build.R
+    outs:
+    - data/
