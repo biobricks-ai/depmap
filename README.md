@@ -1,3 +1,5 @@
+<a href="https://github.com/biobricks-ai/depmap/actions"><img src="https://github.com/biobricks-ai/depmap/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>
+
 # The Dependency Map [(depmap)](https://depmap.org/portal/) Portal
 > The mutations that cause cancer cells to grow also confer specific vulnerabilities that normal cells lack. Some of these acquired alterations represent compelling therapeutic targets. The challenge is that, for the overwhelming majority of cancers, we do not fully understand the relationship between the genetic alterations of cancer and the dependencies they cause. To solve this problem, we are creating a “cancer dependency map” by systematically identifying genetic dependencies and small molecule sensitivities and discovering the biomarkers that predict them.
 
